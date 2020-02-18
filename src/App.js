@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './sass/App.sass'
 //connect component
 import Header from './components/Header';
 function App() {
