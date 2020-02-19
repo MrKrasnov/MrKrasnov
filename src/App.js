@@ -1,5 +1,6 @@
 import React from 'react';
-import './sass/App.sass'
+import './sass/App.sass';
+import './fonts/stylesheet.css'
 //connect component
 import Header from './components/Header';
 import Main from './components/Main';
