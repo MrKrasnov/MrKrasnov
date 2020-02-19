@@ -5,7 +5,7 @@ import './fonts/stylesheet.css'
 import Header from './components/Header';
 import Main from './components/Main';
 import Other from './components/Other';
-import Portfolio from './components/Portfolio';
+import Portfolio from './components/Portfolio/Portfolio';
 
 function App() {
   return (
