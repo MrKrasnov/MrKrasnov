@@ -1,15 +1,34 @@
 .portfolio
     padding-top: 10px
     background-color: #1c5174
+    padding-bottom: 30px
     &-title
         text-align: center
         color: #3a9eac
         &-grid
             display: grid
             grid-template-columns: 1fr 1fr 1fr 1fr
+            text-align: center
+            color: #3a9eac
+            & p
+                font-size: 17.5px
             & img
                 height: 165px
                 width: 250px
                 filter: opacity(50%)
                 &:hover
                     filter: opacity(100%)
+            &-link
+                display: flex
+                justify-content: center
+                & a
+                    margin: 0 10px
+                    padding: 10px 0
+                    width: 30%
+                    text-decoration: none
+                    color: #ffffff
+                    border: 2px solid white
+                    border-radius: 20px
+                    background-color: #3a9eac
+                    &:hover
+                        filter: grayscale(50%)
