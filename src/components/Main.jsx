@@ -3,7 +3,7 @@ import React from 'react';
 
 function Main(){
     return(
-        <div>
+        <div className="main-div">
             <div className="container">
                 <div className="main">
                     <h1 className="main-title">General information</h1>
