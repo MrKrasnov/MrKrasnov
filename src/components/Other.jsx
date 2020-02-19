@@ -32,7 +32,7 @@ function Other(){
                     </p>
                     <div>
                         <h3>This site was developed by React.js</h3>
-                        <a href="https://github.com/MrKrasnov/MrKrasnov">GitHub</a>    
+                        <a href="https://github.com/MrKrasnov/MrKrasnov">GitHub repository</a>    
                     </div>
                 </div>
             </div>
