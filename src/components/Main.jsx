@@ -15,7 +15,9 @@ function Main(){
                             <li><a href="https://drive.google.com/file/d/1_SJxqcxWNbeM3iom4I4bVTWsHkcQakEG/view">Summary</a></li>
                         </ul>
                         <div className="main-title-flex-distribution">
-                            <p className="main-title-flex-distribution-speciality">Front-end Developer</p>
+                            <p className="main-title-flex-distribution-speciality">
+                            Yurii Krasnov <br/>
+                            Front-end Developer</p>
                             <p>Date of Birth: June 02, 1999</p>
                             <p>Work in freelance 7 months. I was engaged in the support of <br/>
                                sites promoting cryptocurrency.</p>
