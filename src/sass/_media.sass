@@ -24,3 +24,30 @@
         grid-template-columns: 1fr
     .header
         width: 50%
+// Lumia 920 (384 x 640)
+@media (max-width: 384px)
+    header
+        padding-bottom: 0
+        background-size: cover
+        background-position: center
+    .header
+        top: 75px
+        height: 170px
+        width: 40%
+    .main-title-flex
+        flex-direction: column
+        text-align: center
+        & div
+            border-top: 2px solid #1c5174
+    .main-title-flex-distribution-speciality-skill
+        text-align: center
+    .other-flex
+        flex-direction: column
+        text-align: center
+        & div
+            border-top: 2px solid #1c5174
+    .other-flex-skill-education
+        margin-bottom: 30px
+    ul
+        padding-inline-start: 0
+        padding-right: 0
