@@ -20,6 +20,14 @@ function Main(){
                             <p>Work in freelance 7 months. I was engaged in the support of <br/>
                                sites promoting cryptocurrency.</p>
                         </div>
+                        <div className="main-title-flex-distribution-speciality-skill">
+                            <p className="main-title-flex-distribution-speciality-skill-core">Core skills</p>
+                            <p className="main-title-flex-distribution-speciality-skill-core-select">
+                                JavaScript <br/>
+                                React.js <br/>
+                                Css3    
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
