@@ -1,6 +1,6 @@
 import React from 'react';
 //import photo
-import PhotoProfile from '../img/photo-profile.jpg';
+import PhotoProfile from '../../img/photo-profile.jpg';
 
 function Header() {
     return (

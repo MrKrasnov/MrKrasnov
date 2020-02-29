@@ -2,11 +2,11 @@ import React from 'react';
 import './sass/App.sass';
 import './fonts/stylesheet.css'
 //connect component
-import Header from './components/Header';
-import Main from './components/Main';
-import Other from './components/Other';
+import Header from './components/Header/Header';
+import Main from './components/Main/Main';
+import Other from './components/Other/Other';
 import Portfolio from './components/Portfolio/Portfolio';
-// import Test from './components/Test';
+// import Test from './components/Test/Test';
 
 function App() {
   return (
