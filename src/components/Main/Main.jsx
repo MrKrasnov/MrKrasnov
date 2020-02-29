@@ -19,8 +19,8 @@ function Main(){
                             Yurii Krasnov <br/>
                             Front-end Developer</p>
                             <p>Date of Birth: June 02, 1999</p>
-                            <p>Work in freelance 7 months. I was engaged in the support of <br/>
-                               sites promoting cryptocurrency.</p>
+                            <p>I work on freelance. I was engaged in support <br/>
+Cryptocurrency website promotion. Also have experience with VUE</p>
                         </div>
                         <div className="main-title-flex-distribution-speciality-skill">
                             <p className="main-title-flex-distribution-speciality-skill-core">Core skills</p>

@@ -13,7 +13,7 @@ function Other(){
                         <li className="other-flex-down">
                         JavaScript - ES5+
                         </li>
-                        <li>Vue.js -basics, work with components.</li>
+                        <li>Vue.js -basics, work with components, vue-router.</li>
                         <li className="other-flex-down">
                         React.js - Basics, work with JSX and properties.
                         </li>
