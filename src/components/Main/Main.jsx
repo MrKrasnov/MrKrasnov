@@ -26,7 +26,7 @@ Cryptocurrency website promotion. Also have experience with VUE</p>
                             <p className="main-title-flex-distribution-speciality-skill-core">Core skills</p>
                             <p className="main-title-flex-distribution-speciality-skill-core-select">
                                 JavaScript <br/>
-                                React.js <br/>
+                                Vue.js <br/>
                                 Css3    
                             </p>
                         </div>
